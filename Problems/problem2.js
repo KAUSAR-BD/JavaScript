@@ -7,7 +7,8 @@ const remainingBalance = lastMonthEarning - companyExpenses;
 
 const latePaymentReceived = 12500;
 const totalCompanyBalance = remainingBalance + latePaymentReceived;
-// console.log(
-//   "Remaining balance after late payment receivied: $",
-//   totalCompanyBalance,
-// );
+
+console.log(
+  "Remaining balance after late payment receivied: $",
+  totalCompanyBalance,
+);

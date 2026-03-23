@@ -7,4 +7,5 @@ const remainingWidgets = productionWidgets - shippedWidgets;
 
 const defectiveWidgets = 1250;
 const totalRemainingWidgets = remainingWidgets + defectiveWidgets;
-// console.log("Total remaining in factory with defective:", totalRemainingWidgets);
+
+console.log("Total remaining in factory with defective:", totalRemainingWidgets);

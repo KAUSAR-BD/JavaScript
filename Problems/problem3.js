@@ -8,4 +8,4 @@ const seatUses = totalPeople + nextStopPeople;
 
 const remainingSeats = totalBusSeats - seatUses;
 
-// console.log("Total Remaining Seats:", remainingSeats);
+console.log("Total Remaining Seats:", remainingSeats);
